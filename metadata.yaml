@@ -1,5 +1,8 @@
 _repo: Literary-Landmarks-of-Venice_56530
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56530-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Hutton, Laurence
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33644
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Hutton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56530#Literary-Landmarks-of-Venice
 gutenberg_issued: '2018-02-09'
 gutenberg_type: Text
 identifiers:
